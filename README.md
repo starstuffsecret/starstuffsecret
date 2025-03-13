@@ -1,2 +1,2 @@
-identity: secret
+identity: secret;
 made of: star stuff
